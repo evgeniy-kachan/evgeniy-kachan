@@ -1,13 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=F7F2F1&width=435&lines=My+technology+stack+%3A" alt="Typing SVG" /></a>
-Frontend
 
-HTML, SEMANTIC
-Css, Scss, BEM
-JavaScript/TypeScript
-Git
-ReactJS
-Reduxtoolkit
-Webpack
+*HTML
+*CSS (SCSS, BEM)
+*Javascript
+*Typescript
+*ReactJS
+*Redux Toolkit
+*Webpack
+*GIT
 
 <!--
 **evgeniy-kachan/evgeniy-kachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
